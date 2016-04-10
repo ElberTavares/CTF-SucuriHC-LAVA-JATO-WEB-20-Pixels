@@ -39,3 +39,4 @@ ico to PNG
 
 ![img1](fim.png)
 
+>Por: folds - BIG BANG TEAM
